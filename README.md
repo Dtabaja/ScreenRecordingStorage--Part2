@@ -1,6 +1,6 @@
 # ScreenRecordingStorage--Part2
 
-##Explanation
+## Explanation
 
 Hi Everyone,
 
@@ -14,6 +14,6 @@ ScreenRecordingApp offers you to track and see the user's Screen record made on 
 
 
 
-##Credit
+## Credit
 Flaticon
 
